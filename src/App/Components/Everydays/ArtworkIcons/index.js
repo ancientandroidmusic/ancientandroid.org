@@ -20,8 +20,8 @@ class ArtworkIcons extends React.Component {
         return (
             <div className="pageWrapper">
                 <div className="iconspageLeadingText">
-                    <h1>{everydays.length} concecutive artworks</h1>
-                    <p>Click on the art to hear the audio</p>
+
+                    <p>Click on the art to hear the music</p>
                 </div>
                 <div className="container"><ul>{listItems}</ul></div>
             </div>
