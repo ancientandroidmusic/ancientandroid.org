@@ -20,8 +20,7 @@ class ArtworkIcons extends React.Component {
         return (
             <div className="pageWrapper">
                 <div className="iconspageLeadingText">
-
-                    <p>Click on the art to hear the music</p>
+                    <p>click the art to hear the music</p>
                 </div>
                 <div className="container"><ul>{listItems}</ul></div>
             </div>

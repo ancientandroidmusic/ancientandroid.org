@@ -1,12 +1,15 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #111;
   color: #eee;
+}
+
+p {
+    font-size: 2em;
+    color: #b4b4b4;
 }
 
 code {
@@ -38,7 +41,7 @@ div.pageWrapper {
 }
 div.container {
     margin: auto;
-    width: 960px;
+    width: 1111px;
 }
 
 div.iconspageLeadingText {
@@ -50,16 +53,18 @@ ul {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  padding: 0;
+  margin:0;
 }
 li {
   border: 0px solid grey;
-  padding: 0.8em;
+  padding: 0.1em 0.2em;
   display: flex;
   align-items: flex-end;
 }
 
 .gridImage {
-    width: 150px;
+    width: 217px;
 }
 
 /* unvisited link */
@@ -67,7 +72,6 @@ a:link {
   color: white;
   font-weight: bold;
   text-decoration: none;
-  opacity: 0.7;
 }
 
 /* visited link */

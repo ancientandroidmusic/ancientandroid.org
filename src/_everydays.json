@@ -1,5 +1,41 @@
 [
     {
+    	"name": "06 epoch relay",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-30",
+    	"visType": ".jpg"
+	},
+    {
+    	"name": "05 energy divided",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-29",
+    	"visType": ".jpg"
+	},
+    {
+    	"name": "04 mixed feelings",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-28",
+    	"visType": ".jpg"
+	},
+    {
+    	"name": "03 grasslands",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-27",
+    	"visType": ".jpg"
+	},
+    {
+    	"name": "02 enclosure",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-26",
+    	"visType": ".jpg"
+	},
+    {
+    	"name": "01 science",
+    	"repo": "experiments.vol3",
+    	"date": "2021-05-25",
+    	"visType": ".jpg"
+	},
+    {
     	"name": "67 shattered cube",
     	"repo": "experiments.vol2",
     	"date": "2021-05-24",
